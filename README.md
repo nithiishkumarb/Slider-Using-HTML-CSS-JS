@@ -1,4 +1,4 @@
-### Image-Slider
+# Image-Slider
 
 This project is a simple image slider page developed using HTML, CSS, and JavaScript. It allows users to view a collection of images by navigating through them using previous and next buttons.
 
