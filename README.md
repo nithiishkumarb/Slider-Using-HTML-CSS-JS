@@ -1,4 +1,4 @@
-![Screenshot 2024-04-17 172444](https://github.com/nithiishkumarb/Slider-Using-HTML-CSS-JS/assets/134282957/0a4ac240-f703-4603-a4dc-f08b4a2f05d5)![Screenshot 2024-04-17 172432](https://github.com/nithiishkumarb/Slider-Using-HTML-CSS-JS/assets/134282957/1c7346fa-8a5f-4d23-b2e2-f2315d52c15c)![Screenshot 2024-04-17 172432](https://github.com/nithiishkumarb/Slider-Using-HTML-CSS-JS/assets/134282957/b53b9d39-557f-408c-ac73-a1ef2415f6bb)# Image Slider Page
+### Image-Slider
 
 This project is a simple image slider page developed using HTML, CSS, and JavaScript. It allows users to view a collection of images by navigating through them using previous and next buttons.
 
